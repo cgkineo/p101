@@ -1,0 +1,15 @@
+{
+  "name": "p101",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "CGKineo"
+  ],
+  "displayName" : "Page 101",
+  "course" : "p101",
+  "description": "A blank canvas for building a course from scratch.",
+  "keywords": [
+    "adapt-course"
+  ],
+  "license": "GPLv3"
+}

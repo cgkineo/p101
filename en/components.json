@@ -1,0 +1,11 @@
+[
+	{
+		"_id": "componentID",
+		"_parentId": "blockID",
+		"_type": "component",
+		"_component": "blank",
+		"_classes": "",
+		"_layout": "full",
+		"title": "componentID"
+	}
+]

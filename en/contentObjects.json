@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "contentObjectID",
+        "_parentId": "p101",
+        "_type": "page",
+        "_classes": "",
+        "title": "title",
+        "displayTitle": "title",
+        "body": "body",
+        "_graphic": {
+            "alt": "",
+            "src": ""
+        },
+        "linkText": "View",
+        "duration": "xx mins"
+    }
+]
