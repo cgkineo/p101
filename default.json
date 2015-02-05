@@ -1,14 +1,12 @@
-[
-	{
-		"menus": [
-			"adapt-contrib-boxmenu"
-		],
-		"themes": [
-			"adapt-kineo-theme"
-		],
-		"components": [
-			"adapt-contrib-blank"
-		],
-		"extensions": []
-	}
-]
+{
+	"menus": [
+		"adapt-contrib-boxmenu"
+	],
+	"themes": [
+		"adapt-kineo-theme"
+	],
+	"components": [
+		"adapt-contrib-blank"
+	],
+	"extensions": []
+}
