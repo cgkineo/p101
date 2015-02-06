@@ -1,6 +1,6 @@
 {
 	"menus": [
-		"adapt-contrib-boxmenu"
+		"adapt-contrib-boxMenu"
 	],
 	"themes": [
 		"adapt-kineo-theme"
