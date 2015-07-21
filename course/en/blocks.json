@@ -1,0 +1,11 @@
+[
+	{
+		"_id": "blockID",
+		"_parentId": "articleID",
+		"_type": "block",
+		"_classes": "",
+		"title": "blockID",
+		"displayTitle": "",
+		"body": ""
+	}
+]
