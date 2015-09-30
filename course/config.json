@@ -26,5 +26,10 @@
 			"_onTrackingCriteriaMet": "completed",
 			"_onAssessmentFailure": "incomplete"
 		}
+	},
+	"_inspector": {
+		"_isEnabled": "false",
+		"_tracUrl": "",
+		"_disableOnTouch": "false"
 	}
 }
