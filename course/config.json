@@ -25,7 +25,8 @@
 		"_reporting": {
 			"_comment": "Your options here are 'completed', 'passed', 'failed', and 'incomplete'",
 			"_onTrackingCriteriaMet": "completed",
-			"_onAssessmentFailure": "incomplete"
+			"_onAssessmentFailure": "incomplete",
+			"_resetStatusOnLanguageChange": false
 		}
 	},
 	"_disableAnimationFor": [],
