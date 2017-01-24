@@ -4,6 +4,7 @@
 	"_questionWeight": 1,
 	"_accessibility": {
 		"_isEnabled": false,
+		"_isDisabledOnTouchDevices": false,
 		"_shouldSupportLegacyBrowsers": true,
 		"_isTextProcessorEnabled": true,
 		"_disableTextSelectOnClasses": ""
@@ -23,7 +24,7 @@
 			"_shouldRecordInteractions": true
 		},
 		"_reporting": {
-			"_comment": "Your options here are 'completed', 'passed', 'failed', and 'incomplete'",
+			"_comment": "_onTrackingCriteriaMet/_onAssessmentFailure = completed | incomplete | passed | failed",
 			"_onTrackingCriteriaMet": "completed",
 			"_onAssessmentFailure": "incomplete",
 			"_resetStatusOnLanguageChange": false
