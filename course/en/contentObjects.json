@@ -8,6 +8,7 @@
 		"displayTitle": "title",
 		"body": "body",
 		"pageBody": "pageBody",
+		"instruction": "instruction",
 		"_graphic": {
 			"src": "",
 			"alt": ""

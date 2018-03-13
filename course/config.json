@@ -9,11 +9,18 @@
 	},
 	"_accessibility": {
 		"_isEnabled": false,
-		"_isEnabledOnTouchDevices": false,
-		"_shouldSupportLegacyBrowsers": true,
 		"_isTextProcessorEnabled": true,
 		"_isSkipNavigationEnabled": true,
-		"_disableTextSelectOnClasses": ""
+		"_disableTextSelectOnClasses": "",
+		"_ariaLevels": {
+			"_menu": 1,
+			"_menuItem": 2,
+			"_page": 1,
+			"_article": 2,
+			"_block": 3,
+			"_component": 4,
+			"_componentItem": 5
+		}
 	},
 	"_drawer": {
 		"_showEasing": "easeOutQuart",
@@ -23,7 +30,6 @@
 	"_spoor": {
 		"_isEnabled": true,
 		"_tracking": {
-			"_requireCourseCompleted": true,
 			"_shouldSubmitScore": false,
 			"_shouldStoreResponses": false,
 			"_shouldRecordInteractions": true
@@ -35,8 +41,11 @@
 			"_resetStatusOnLanguageChange": false
 		}
 	},
+	"_completionCriteria": {
+		"_requireContentCompleted": true,
+		"_requireAssessmentCompleted": false
+	},
 	"_disableAnimationFor": [],
-	"build": {},
 	"_inspector": {
 		"_isEnabled": false,
 		"_disableOnTouch": false,
