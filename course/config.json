@@ -47,8 +47,14 @@
 	},
 	"_disableAnimationFor": [],
 	"_inspector": {
-		"_isEnabled": false,
-		"_disableOnTouch": false,
-		"_tracUrl": ""
+		"_isEnabled": true,
+		"_trac": {
+			"_isEnabled": false,
+			"_url": "https://dev.kineo.com/trac/xx-xxxx-xxxxxx",
+			"_params": {
+				"summary": "{{_id}}{{#if displayTitle}} {{{displayTitle}}}{{/if}}{{inspector_location}} Please enter a short summary of the issue here",
+				"component": "{{import_adapt}}{{Adapt.course._id}}"
+			}
+		}
 	}
 }
