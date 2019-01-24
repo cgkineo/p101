@@ -9,7 +9,6 @@
 	},
 	"_accessibility": {
 		"_isEnabled": false,
-		"_isTextProcessorEnabled": true,
 		"_isSkipNavigationEnabled": true,
 		"_disableTextSelectOnClasses": "",
 		"_ariaLevels": {
@@ -46,6 +45,10 @@
 		"_requireAssessmentCompleted": false
 	},
 	"_disableAnimationFor": [],
+	"_scrollingContainer": {
+		"_isEnabled": false,
+		"_limitToSelector": ":not(.os-android)"
+	},
 	"_inspector": {
 		"_isEnabled": true,
 		"_trac": {
