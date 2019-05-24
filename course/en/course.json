@@ -1,6 +1,7 @@
 {
 	"_id": "p101",
 	"_type": "course",
+	"_htmlClassName": "",
 	"title": "title",
 	"displayTitle": "title",
 	"description": "",
@@ -65,7 +66,6 @@
 	},
 	"_pageLevelProgress": {
 		"_isEnabled": true,
-		"_showPageCompletion": false,
-		"_altText": "of components completed on this page."
+		"_showPageCompletion": false
 	}
 }
