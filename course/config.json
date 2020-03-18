@@ -66,7 +66,7 @@
 		"_limitToSelector": ":not(.os-android)"
 	},
 	"_inspector": {
-		"_isEnabled": true,
+		"_isEnabled": false,
 		"_trac": {
 			"_isEnabled": false,
 			"_url": "https://dev.kineo.com/trac/xx-xxxx-xxxxxx",
