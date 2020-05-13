@@ -5,7 +5,8 @@
 	"_logging": {
 		"_isEnabled": true,
 		"_level": "debug",
-		"_console": true
+		"_console": true,
+		"_warnFirstOnly": true
 	},
 	"_accessibility": {
 		"_isEnabled": false,
@@ -45,8 +46,8 @@
 	"_spoor": {
 		"_isEnabled": true,
 		"_tracking": {
-			"_shouldSubmitScore": false,
-			"_shouldStoreResponses": false,
+			"_shouldSubmitScore": true,
+			"_shouldStoreResponses": true,
 			"_shouldRecordInteractions": true
 		},
 		"_reporting": {
@@ -57,13 +58,16 @@
 		}
 	},
 	"_completionCriteria": {
-		"_requireContentCompleted": true,
-		"_requireAssessmentCompleted": false
+		"_requireContentCompleted": false,
+		"_requireAssessmentCompleted": true
 	},
 	"_disableAnimationFor": [],
 	"_scrollingContainer": {
 		"_isEnabled": false,
 		"_limitToSelector": ":not(.os-android)"
+	},
+	"_fixes": {
+		"_imgLazyLoad": true
 	},
 	"_inspector": {
 		"_isEnabled": false,
