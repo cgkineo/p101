@@ -17,12 +17,12 @@
 			"ariaLabel": "Reset"
 		},
 		"_showCorrectAnswer": {
-			"buttonText": "Correct answer",
+			"buttonText": "Show correct answer",
 			"ariaLabel": "Show correct answer"
 		},
 		"_hideCorrectAnswer": {
-			"buttonText": "My answer",
-			"ariaLabel": "Show my answer"
+			"buttonText": "Show your answer",
+			"ariaLabel": "Show your answer"
 		},
 		"_showFeedback": {
 			"buttonText": "Show feedback",
@@ -67,6 +67,8 @@
 	},
 	"_pageLevelProgress": {
 		"_isEnabled": true,
-		"_showPageCompletion": false
+		"_showPageCompletion": false,
+		"_isCompletionIndicatorEnabled": false,
+		"_isShownInNavigationBar": true
 	}
 }

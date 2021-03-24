@@ -18,7 +18,9 @@
 		"duration": "xx mins",
 		"_pageLevelProgress": {
 			"_isEnabled": true,
-			"_isCompletionIndicatorEnabled": false
+			"_showPageCompletion": false,
+			"_isCompletionIndicatorEnabled": false,
+			"_excludeAssessments": false
 		}
 	}
 ]
