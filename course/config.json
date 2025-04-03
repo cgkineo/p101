@@ -72,7 +72,6 @@
 	},
 	"_disableAnimationFor": [],
 	"_disableAnimation": false,
-	"_disablePageHeaders": false,
 	"_scrollingContainer": {
 		"_isEnabled": false,
 		"_limitToSelector": ""
